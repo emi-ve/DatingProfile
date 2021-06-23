@@ -1,27 +1,27 @@
 # DatingProfile
-C# Practice for Classes and Objects
-Objective:  Build a Profile class that allows users to generate profile objects.
+C# Practice for Classes and Objects<br />
+Objective:  Build a Profile class that allows users to generate profile objects.<br />
 
-The Profile should store the following information:
+The Profile should store the following information:<br />
 
 User’s name<br />
-User’s age
-User’s city
-User’s country
-User’s pronouns
-User’s hobbies
-And this is how users should be able to interact with their own profiles:
+User’s age<br />
+User’s city<br />
+User’s country<br />
+User’s pronouns<br />
+User’s hobbies<br />
+And this is how users should be able to interact with their own profiles:<br />
 
-Create a new profile with some information
-Add hobbies
-View profile
+Create a new profile with some information<br />
+Add hobbies<br />
+View profile<br />
 
----
-Example OUTPUT:
+---<br />
+Example OUTPUT:<br />
 
-Name: Sam Drakkila,
-Age: 30,
-City: New York,
-Country: USA,
-Pronouns: he/him,
-Hobbies: / hobby1  / hobby2
+Name: Sam Drakkila,<br />
+Age: 30,<br />
+City: New York,<br />
+Country: USA,<br />
+Pronouns: he/him,<br />
+Hobbies: / hobby1  / hobby2<br />
