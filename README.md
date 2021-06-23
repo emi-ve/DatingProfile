@@ -1,4 +1,4 @@
-# DatingProfile
+# Codecademy DatingProfile
 C# Practice for Classes and Objects<br />
 Objective:  Build a Profile class that allows users to generate profile objects.<br />
 
