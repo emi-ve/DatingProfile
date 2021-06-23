@@ -4,7 +4,7 @@ Objective:  Build a Profile class that allows users to generate profile objects.
 
 The Profile should store the following information:
 
-User’s name
+User’s name<br />
 User’s age
 User’s city
 User’s country
